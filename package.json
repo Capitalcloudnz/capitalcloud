@@ -1,0 +1,22 @@
+{
+  "name": "ccs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node app.js"
+  },
+  "author": "Capital Cloud Solutions Limited",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "express": "^4.16.4",
+    "jquery": "^3.3.1",
+    "nodemailer": "^6.1.0",
+    "popper": "^1.0.1"
+  },
+  "engines": {
+    "node": "10.x"
+  }
+}
